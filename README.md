@@ -8,12 +8,6 @@ Used for drawing labels from keypoints on images, and labeling with distances or
 - OpenCV 3.4+ 
 - Numpy 1.15+
 
-## Example
-
-````
-python ./run_example.py
-````
-
 ## Usage
 
 ````
@@ -34,3 +28,13 @@ image = draw_label(image, [p1, p2], text)
 
 cv2.imshow(image)
 ````
+
+## Example
+
+````
+python ./run_example.py
+````
+
+![Example output image](example/example_output.png "Example output image")
+
+
