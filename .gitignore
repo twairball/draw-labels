@@ -113,9 +113,6 @@ dev_venv/
 .vscode/
 
 # temp output
-output/*
-labels/*
-images/*
 data/*
 
 # OSX
