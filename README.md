@@ -8,6 +8,12 @@ Used for drawing labels from keypoints on images, and labeling with distances or
 - OpenCV >= 3.4 
 - Numpy >= 1.15
 
+## Install
+
+````
+$ pip install git+https://github.com/twairball/draw-labels
+````
+
 ## Usage
 
 ````
