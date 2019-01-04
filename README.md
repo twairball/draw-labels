@@ -5,8 +5,8 @@ A package for drawing graphical labels on images.
 Used for drawing labels from keypoints on images, and labeling with distances or measurements. 
 
 ## Requirements
-- OpenCV 3.4+ 
-- Numpy 1.15+
+- OpenCV >= 3.4 
+- Numpy >= 1.15
 
 ## Usage
 
@@ -38,3 +38,6 @@ python ./run_example.py
 ![Example output image](example/example_output.png "Example output image")
 
 
+## LICENSE
+
+MIT
